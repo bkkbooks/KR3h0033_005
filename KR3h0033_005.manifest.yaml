@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3h0033_005_001.yaml, hash: 'sha256:d683b00d0b5ebfed2cc1ce01fdc74592d5b66e7353abe23aabde96482b4c4eeb'}
+  - {seq: 1, filename: KR3h0033_005_001.yaml, hash: 'sha256:172b293c0f79296518f4b10f84226ef4f32ed838b2461cad34f1df6685515157'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0033_005_001.markers.yaml, hash: 'sha256:b6f4aa3d9a55690f8a82f8a2784952f9e7335b99bc23bdb5751da56b8bea7218'}
+  - {seq: 1, role: markers, filename: assets/KR3h0033_005_001.markers.yaml, hash: 'sha256:c2cb2f4811a2e059065e32a483932920c63c38a6ae2fbf9fd2a7e9f358bab814'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 書評一卷
   type: section
   level: 1
-hash: sha256:997b73b778e4b81bdb58cd0257b32fba6b7921f5bae713aa08ef0f0b9c3565c3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d63283a05ed92e80f94b44edf0501c058ea339d860608ffba9a4dbd2d1750746
